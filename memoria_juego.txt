@@ -1,0 +1,4 @@
+Número secreto: 8974
+Intento 1: 6542 -> Aciertos: 0, Coincidencias: 1
+Intento 2: 8542 -> Aciertos: 1, Coincidencias: 2
+Intento 3: 9142 -> Aciertos: 0, Coincidencias: 2
